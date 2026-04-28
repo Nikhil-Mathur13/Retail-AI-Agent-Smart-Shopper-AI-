@@ -229,14 +229,8 @@ This is performed using the LLM via a classification prompt.
 
 ---
 
-## 6. Limitations and Future Improvements
 
-* Filter extraction is currently heuristic (can be improved using structured parsing)
-* Ranking logic can be enhanced with personalization signals
-
----
-
-## 7. Conclusion
+## 6. Conclusion
 
 This system achieves a balance between:
 
