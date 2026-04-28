@@ -1,0 +1,101 @@
+product_id,title,vendor,price,compare_at_price,tags,sizes_available,stock_per_size,is_sale,is_clearance,bestseller_score
+P0001,Silk Avenue Style 1,Silk Avenue,137,137,"cocktail,lace,flowy",8|4|14|2|10,"{'8': 18, '4': 13, '14': 1, '2': 0, '10': 2}",False,False,72
+P0002,Velour House Style 2,Velour House,446,506,"evening,cocktail,modest",16|10|6|2,"{'16': 5, '10': 13, '6': 10, '2': 8}",True,True,49
+P0003,Aurelia Couture Style 3,Aurelia Couture,263,303,"lace,bridal,prom",10|14|2|8|12|4|16,"{'10': 17, '14': 9, '2': 20, '8': 19, '12': 11, '4': 18, '16': 6}",True,False,99
+P0004,Lumiere Style 4,Lumiere,120,140,"modest,lace,cocktail",14|6|8,"{'14': 20, '6': 11, '8': 5}",True,False,90
+P0005,Silk Avenue Style 5,Silk Avenue,411,411,"prom,modest,sleeve",6|10|12|4|14|8|16,"{'6': 8, '10': 20, '12': 17, '4': 7, '14': 10, '8': 1, '16': 7}",False,False,28
+P0006,Eden Atelier Style 6,Eden Atelier,447,487,"lace,flowy,minimal",16|8|12|14,"{'16': 4, '8': 8, '12': 4, '14': 7}",True,False,75
+P0007,Nocturne Style 7,Nocturne,378,438,"minimal,sleeve,sparkle",8|4|10|16|2,"{'8': 1, '4': 3, '10': 4, '16': 20, '2': 5}",True,True,49
+P0008,Eden Atelier Style 8,Eden Atelier,319,359,"flowy,evening,lace",2|12|14|16|6|8|4,"{'2': 3, '12': 9, '14': 13, '16': 5, '6': 14, '8': 0, '4': 8}",True,False,81
+P0009,Lumiere Style 9,Lumiere,407,427,"fitted,prom,bridal",12|14|4|10,"{'12': 16, '14': 0, '4': 19, '10': 10}",True,False,40
+P0010,Velour House Style 10,Velour House,109,129,"sleeve,cocktail,flowy",4|2|12|8|14|6|10,"{'4': 4, '2': 15, '12': 17, '8': 5, '14': 8, '6': 16, '10': 19}",True,False,89
+P0011,Velour House Style 11,Velour House,445,485,"cocktail,sparkle,lace",12|8|10|14|2|16,"{'12': 7, '8': 2, '10': 10, '14': 0, '2': 18, '16': 17}",True,True,91
+P0012,Silk Avenue Style 12,Silk Avenue,110,130,"quinceanera,minimal,fitted",2|14|6,"{'2': 2, '14': 16, '6': 7}",True,False,17
+P0013,Silk Avenue Style 13,Silk Avenue,372,432,"sleeve,lace,fitted",16|14|8|4,"{'16': 3, '14': 3, '8': 13, '4': 11}",True,False,7
+P0014,Silk Avenue Style 14,Silk Avenue,414,414,"cocktail,flowy,fitted",14|12|6,"{'14': 3, '12': 7, '6': 6}",False,True,24
+P0015,Lumiere Style 15,Lumiere,316,336,"flowy,prom,bridal",16|14|10,"{'16': 3, '14': 1, '10': 20}",True,False,31
+P0016,Velour House Style 16,Velour House,288,348,"lace,flowy,fitted",8|14|16|2|4|12,"{'8': 0, '14': 12, '16': 8, '2': 14, '4': 9, '12': 13}",True,False,38
+P0017,Velour House Style 17,Velour House,109,109,"sparkle,bridal,cocktail",2|16|10|8|4,"{'2': 1, '16': 16, '10': 2, '8': 5, '4': 2}",False,False,73
+P0018,Velour House Style 18,Velour House,376,376,"fitted,modest,bridal",4|8|12|10|6|16|2,"{'4': 10, '8': 7, '12': 8, '10': 12, '6': 4, '16': 20, '2': 9}",False,True,80
+P0019,Eden Atelier Style 19,Eden Atelier,131,131,"minimal,flowy,prom",8|10|6|4|12|2|16,"{'8': 11, '10': 9, '6': 5, '4': 14, '12': 17, '2': 9, '16': 19}",False,False,71
+P0020,Lumiere Style 20,Lumiere,419,419,"cocktail,modest,lace",10|2|14|16,"{'10': 4, '2': 8, '14': 9, '16': 19}",False,False,34
+P0021,Eden Atelier Style 21,Eden Atelier,330,370,"modest,evening,quinceanera",4|12|8,"{'4': 8, '12': 1, '8': 0}",True,False,57
+P0022,Eden Atelier Style 22,Eden Atelier,441,501,"cocktail,minimal,lace",2|16|14|4|12|10|8,"{'2': 13, '16': 4, '14': 1, '4': 9, '12': 11, '10': 1, '8': 11}",True,False,46
+P0023,Eden Atelier Style 23,Eden Atelier,288,308,"minimal,cocktail,quinceanera",6|14|4|8,"{'6': 0, '14': 5, '4': 10, '8': 13}",True,False,90
+P0024,Aurelia Couture Style 24,Aurelia Couture,275,275,"bridal,quinceanera,modest",8|4|16|6|10|2,"{'8': 7, '4': 0, '16': 6, '6': 12, '10': 10, '2': 8}",False,False,52
+P0025,Silk Avenue Style 25,Silk Avenue,354,394,"bridal,sparkle,sleeve",4|6|16,"{'4': 18, '6': 8, '16': 1}",True,False,41
+P0026,Nocturne Style 26,Nocturne,390,390,"sparkle,modest,bridal",8|6|2|16|12|14,"{'8': 17, '6': 6, '2': 11, '16': 13, '12': 2, '14': 10}",False,False,39
+P0027,Eden Atelier Style 27,Eden Atelier,238,298,"sparkle,quinceanera,sleeve",14|12|6|10|4,"{'14': 6, '12': 13, '6': 12, '10': 5, '4': 19}",True,False,1
+P0028,Lumiere Style 28,Lumiere,226,246,"sparkle,modest,bridal",12|8|14|16|4|6,"{'12': 15, '8': 5, '14': 2, '16': 9, '4': 16, '6': 20}",True,False,97
+P0029,Velour House Style 29,Velour House,424,464,"fitted,sleeve,sparkle",8|4|2|12,"{'8': 7, '4': 15, '2': 19, '12': 2}",True,False,90
+P0030,Nocturne Style 30,Nocturne,333,393,"lace,flowy,fitted",6|12|14|2,"{'6': 3, '12': 13, '14': 7, '2': 5}",True,True,32
+P0031,Aurelia Couture Style 31,Aurelia Couture,313,333,"minimal,quinceanera,flowy",12|14|8|10|16|6,"{'12': 14, '14': 5, '8': 15, '10': 14, '16': 8, '6': 7}",True,False,31
+P0032,Lumiere Style 32,Lumiere,305,305,"lace,cocktail,bridal",8|6|14|12|2,"{'8': 4, '6': 4, '14': 7, '12': 12, '2': 4}",False,False,43
+P0033,Eden Atelier Style 33,Eden Atelier,318,378,"sparkle,sleeve,fitted",8|14|16,"{'8': 12, '14': 18, '16': 0}",True,True,46
+P0034,Lumiere Style 34,Lumiere,279,339,"flowy,prom,sleeve",8|16|4|6|14|12|2,"{'8': 12, '16': 10, '4': 12, '6': 5, '14': 14, '12': 4, '2': 19}",True,False,85
+P0035,Aurelia Couture Style 35,Aurelia Couture,122,182,"modest,lace,sleeve",16|4|2|6,"{'16': 12, '4': 10, '2': 6, '6': 14}",True,False,54
+P0036,Lumiere Style 36,Lumiere,121,181,"prom,lace,cocktail",2|6|4,"{'2': 20, '6': 2, '4': 20}",True,False,3
+P0037,Eden Atelier Style 37,Eden Atelier,158,178,"evening,sparkle,minimal",16|12|2|10,"{'16': 6, '12': 14, '2': 8, '10': 11}",True,False,92
+P0038,Aurelia Couture Style 38,Aurelia Couture,163,203,"bridal,sparkle,cocktail",2|6|10,"{'2': 12, '6': 12, '10': 6}",True,True,99
+P0039,Lumiere Style 39,Lumiere,430,430,"fitted,evening,sleeve",2|6|10|8|14|16|4,"{'2': 0, '6': 13, '10': 15, '8': 3, '14': 13, '16': 11, '4': 20}",False,False,67
+P0040,Silk Avenue Style 40,Silk Avenue,218,278,"sparkle,lace,sleeve",14|16|12|10|6|4,"{'14': 7, '16': 2, '12': 8, '10': 14, '6': 7, '4': 14}",True,False,64
+P0041,Lumiere Style 41,Lumiere,173,233,"prom,flowy,cocktail",12|14|6|16,"{'12': 8, '14': 19, '6': 8, '16': 17}",True,True,93
+P0042,Nocturne Style 42,Nocturne,330,350,"flowy,lace,modest",16|8|2|12|6|10,"{'16': 12, '8': 7, '2': 9, '12': 18, '6': 11, '10': 15}",True,False,96
+P0043,Eden Atelier Style 43,Eden Atelier,249,289,"cocktail,fitted,quinceanera",10|6|14|4|2|12,"{'10': 6, '6': 10, '14': 3, '4': 17, '2': 5, '12': 6}",True,False,98
+P0044,Eden Atelier Style 44,Eden Atelier,385,425,"prom,flowy,evening",8|6|4,"{'8': 11, '6': 5, '4': 9}",True,False,7
+P0045,Eden Atelier Style 45,Eden Atelier,229,249,"fitted,bridal,minimal",4|14|2|10|6|16,"{'4': 15, '14': 14, '2': 10, '10': 5, '6': 1, '16': 8}",True,False,10
+P0046,Eden Atelier Style 46,Eden Atelier,402,402,"sleeve,sparkle,minimal",6|14|10|16,"{'6': 2, '14': 7, '10': 3, '16': 17}",False,False,29
+P0047,Eden Atelier Style 47,Eden Atelier,274,334,"cocktail,quinceanera,bridal",10|14|16|8|6|12,"{'10': 19, '14': 1, '16': 19, '8': 3, '6': 6, '12': 20}",True,False,23
+P0048,Eden Atelier Style 48,Eden Atelier,118,138,"prom,cocktail,quinceanera",14|8|12,"{'14': 19, '8': 15, '12': 9}",True,False,90
+P0049,Nocturne Style 49,Nocturne,116,136,"prom,evening,quinceanera",8|16|2|10|4,"{'8': 20, '16': 4, '2': 8, '10': 4, '4': 2}",True,False,73
+P0050,Lumiere Style 50,Lumiere,304,304,"quinceanera,prom,bridal",10|12|8|6|14|4,"{'10': 2, '12': 19, '8': 1, '6': 13, '14': 10, '4': 19}",False,False,87
+P0051,Eden Atelier Style 51,Eden Atelier,380,380,"fitted,bridal,lace",2|14|4|8|10,"{'2': 8, '14': 5, '4': 18, '8': 13, '10': 20}",False,False,43
+P0052,Lumiere Style 52,Lumiere,423,423,"fitted,bridal,modest",12|8|16|14,"{'12': 9, '8': 12, '16': 17, '14': 1}",False,False,15
+P0053,Nocturne Style 53,Nocturne,343,343,"quinceanera,fitted,minimal",16|8|2|4|6|14|10,"{'16': 20, '8': 14, '2': 1, '4': 6, '6': 8, '14': 17, '10': 4}",False,True,81
+P0054,Eden Atelier Style 54,Eden Atelier,202,222,"fitted,quinceanera,flowy",2|10|8|16|4,"{'2': 3, '10': 14, '8': 3, '16': 20, '4': 4}",True,False,54
+P0055,Nocturne Style 55,Nocturne,321,341,"quinceanera,lace,sparkle",6|8|4|10|12|2,"{'6': 8, '8': 13, '4': 10, '10': 16, '12': 8, '2': 0}",True,False,85
+P0056,Nocturne Style 56,Nocturne,156,216,"modest,fitted,sleeve",16|6|14|10|8|4|12,"{'16': 6, '6': 7, '14': 18, '10': 12, '8': 7, '4': 13, '12': 1}",True,False,85
+P0057,Silk Avenue Style 57,Silk Avenue,157,217,"bridal,flowy,fitted",6|10|14,"{'6': 10, '10': 3, '14': 14}",True,True,19
+P0058,Nocturne Style 58,Nocturne,415,435,"minimal,bridal,modest",16|14|6,"{'16': 10, '14': 19, '6': 12}",True,False,69
+P0059,Nocturne Style 59,Nocturne,242,302,"prom,lace,modest",2|10|16|4|6|12|8,"{'2': 13, '10': 3, '16': 20, '4': 3, '6': 14, '12': 5, '8': 9}",True,False,38
+P0060,Lumiere Style 60,Lumiere,271,331,"sparkle,sleeve,lace",8|10|16|14,"{'8': 5, '10': 5, '16': 5, '14': 2}",True,False,64
+P0061,Eden Atelier Style 61,Eden Atelier,153,173,"quinceanera,minimal,sleeve",10|8|6|2|14|4,"{'10': 17, '8': 5, '6': 2, '2': 14, '14': 11, '4': 18}",True,False,59
+P0062,Lumiere Style 62,Lumiere,181,241,"sparkle,minimal,prom",4|16|8|10|6|12,"{'4': 9, '16': 9, '8': 0, '10': 12, '6': 8, '12': 0}",True,False,96
+P0063,Nocturne Style 63,Nocturne,226,246,"prom,sparkle,modest",12|4|16|14|6|8|2,"{'12': 20, '4': 3, '16': 20, '14': 20, '6': 1, '8': 9, '2': 14}",True,False,12
+P0064,Lumiere Style 64,Lumiere,247,307,"quinceanera,fitted,lace",8|4|10|6,"{'8': 16, '4': 16, '10': 8, '6': 5}",True,False,44
+P0065,Aurelia Couture Style 65,Aurelia Couture,319,319,"prom,quinceanera,flowy",8|14|12|16,"{'8': 17, '14': 11, '12': 2, '16': 12}",False,True,48
+P0066,Silk Avenue Style 66,Silk Avenue,424,464,"minimal,bridal,fitted",14|16|12|6|2|10|8,"{'14': 15, '16': 0, '12': 19, '6': 17, '2': 10, '10': 19, '8': 7}",True,False,39
+P0067,Silk Avenue Style 67,Silk Avenue,289,289,"evening,sleeve,fitted",2|16|6|8,"{'2': 3, '16': 3, '6': 7, '8': 17}",False,False,96
+P0068,Silk Avenue Style 68,Silk Avenue,356,416,"modest,bridal,lace",6|8|12|2|14|16|4,"{'6': 8, '8': 1, '12': 11, '2': 6, '14': 14, '16': 14, '4': 7}",True,False,83
+P0069,Lumiere Style 69,Lumiere,111,171,"modest,cocktail,evening",8|2|16|14|4,"{'8': 20, '2': 20, '16': 19, '14': 0, '4': 1}",True,False,27
+P0070,Aurelia Couture Style 70,Aurelia Couture,363,383,"minimal,prom,evening",8|14|4|6|12|10|2,"{'8': 8, '14': 4, '4': 4, '6': 17, '12': 8, '10': 5, '2': 3}",True,True,31
+P0071,Eden Atelier Style 71,Eden Atelier,245,245,"fitted,modest,flowy",10|2|4|8,"{'10': 16, '2': 3, '4': 2, '8': 15}",False,False,58
+P0072,Eden Atelier Style 72,Eden Atelier,193,193,"sparkle,evening,bridal",10|8|12|2|16|4|6,"{'10': 13, '8': 3, '12': 15, '2': 14, '16': 2, '4': 2, '6': 10}",False,True,80
+P0073,Silk Avenue Style 73,Silk Avenue,379,419,"fitted,cocktail,sleeve",10|8|16|12|14|2,"{'10': 3, '8': 20, '16': 20, '12': 17, '14': 6, '2': 13}",True,False,59
+P0074,Nocturne Style 74,Nocturne,292,292,"bridal,sleeve,lace",14|6|12|16|10,"{'14': 4, '6': 15, '12': 2, '16': 2, '10': 2}",False,False,48
+P0075,Velour House Style 75,Velour House,364,364,"flowy,cocktail,evening",12|16|2|8|6|10|4,"{'12': 1, '16': 9, '2': 19, '8': 9, '6': 11, '10': 3, '4': 18}",False,False,29
+P0076,Aurelia Couture Style 76,Aurelia Couture,259,299,"sparkle,minimal,flowy",10|16|4,"{'10': 13, '16': 17, '4': 19}",True,True,85
+P0077,Silk Avenue Style 77,Silk Avenue,216,216,"sparkle,minimal,sleeve",10|12|6|14,"{'10': 11, '12': 0, '6': 5, '14': 4}",False,True,95
+P0078,Silk Avenue Style 78,Silk Avenue,95,95,"evening,sparkle,prom",8|16|14|12|6|2|4,"{'8': 9, '16': 10, '14': 18, '12': 19, '6': 2, '2': 1, '4': 4}",False,False,35
+P0079,Nocturne Style 79,Nocturne,418,478,"minimal,quinceanera,prom",16|8|6|4|2|10,"{'16': 13, '8': 3, '6': 9, '4': 18, '2': 15, '10': 16}",True,False,77
+P0080,Aurelia Couture Style 80,Aurelia Couture,83,103,"evening,lace,sleeve",8|14|4|6|10,"{'8': 10, '14': 3, '4': 0, '6': 15, '10': 13}",True,False,30
+P0081,Eden Atelier Style 81,Eden Atelier,366,406,"fitted,bridal,modest",14|16|12,"{'14': 1, '16': 13, '12': 0}",True,False,74
+P0082,Nocturne Style 82,Nocturne,443,503,"bridal,cocktail,sleeve",4|8|2|6|16,"{'4': 19, '8': 14, '2': 11, '6': 2, '16': 13}",True,False,68
+P0083,Aurelia Couture Style 83,Aurelia Couture,282,322,"lace,minimal,evening",8|6|4|2|10,"{'8': 16, '6': 16, '4': 6, '2': 11, '10': 11}",True,False,19
+P0084,Lumiere Style 84,Lumiere,181,201,"sparkle,modest,minimal",6|14|12|2|4|16|8,"{'6': 14, '14': 18, '12': 18, '2': 14, '4': 18, '16': 20, '8': 20}",True,False,9
+P0085,Nocturne Style 85,Nocturne,306,346,"quinceanera,bridal,minimal",2|6|10|16|14,"{'2': 14, '6': 14, '10': 1, '16': 1, '14': 11}",True,False,65
+P0086,Nocturne Style 86,Nocturne,316,316,"evening,prom,cocktail",8|6|10|16|4|2,"{'8': 14, '6': 3, '10': 10, '16': 2, '4': 16, '2': 20}",False,False,57
+P0087,Eden Atelier Style 87,Eden Atelier,347,367,"bridal,modest,lace",12|6|8|16|14,"{'12': 19, '6': 1, '8': 20, '16': 20, '14': 10}",True,False,50
+P0088,Lumiere Style 88,Lumiere,209,229,"lace,bridal,quinceanera",4|10|12|16|6,"{'4': 9, '10': 20, '12': 12, '16': 4, '6': 19}",True,False,83
+P0089,Lumiere Style 89,Lumiere,145,145,"bridal,quinceanera,lace",12|2|6|16|4|14,"{'12': 10, '2': 15, '6': 6, '16': 7, '4': 4, '14': 4}",False,False,70
+P0090,Silk Avenue Style 90,Silk Avenue,349,349,"sleeve,modest,cocktail",6|10|8|4|14,"{'6': 5, '10': 19, '8': 5, '4': 14, '14': 1}",False,False,79
+P0091,Lumiere Style 91,Lumiere,309,329,"cocktail,sparkle,evening",8|6|16|4|14|12|10,"{'8': 14, '6': 9, '16': 12, '4': 16, '14': 16, '12': 13, '10': 5}",True,False,7
+P0092,Silk Avenue Style 92,Silk Avenue,326,366,"fitted,modest,prom",4|12|10|2|6|14|8,"{'4': 8, '12': 14, '10': 16, '2': 4, '6': 13, '14': 2, '8': 7}",True,False,51
+P0093,Eden Atelier Style 93,Eden Atelier,271,291,"fitted,evening,lace",4|6|16|2|14|10,"{'4': 20, '6': 10, '16': 4, '2': 4, '14': 1, '10': 9}",True,False,1
+P0094,Aurelia Couture Style 94,Aurelia Couture,89,129,"cocktail,quinceanera,bridal",6|10|12|14,"{'6': 16, '10': 13, '12': 3, '14': 9}",True,True,54
+P0095,Silk Avenue Style 95,Silk Avenue,398,458,"minimal,flowy,sparkle",4|14|8,"{'4': 19, '14': 17, '8': 0}",True,False,19
+P0096,Lumiere Style 96,Lumiere,299,299,"flowy,prom,sleeve",12|4|10|8|14|6|2,"{'12': 16, '4': 11, '10': 2, '8': 16, '14': 17, '6': 16, '2': 16}",False,False,6
+P0097,Silk Avenue Style 97,Silk Avenue,278,318,"prom,modest,flowy",2|6|16|14|4,"{'2': 20, '6': 3, '16': 18, '14': 10, '4': 4}",True,False,83
+P0098,Velour House Style 98,Velour House,430,490,"quinceanera,flowy,sleeve",6|14|4|2|8|10,"{'6': 9, '14': 6, '4': 1, '2': 6, '8': 1, '10': 10}",True,False,70
+P0099,Nocturne Style 99,Nocturne,209,209,"sleeve,fitted,lace",10|6|2|14,"{'10': 8, '6': 3, '2': 11, '14': 13}",False,False,24
+P0100,Nocturne Style 100,Nocturne,434,494,"modest,bridal,minimal",10|14|2|8|12,"{'10': 13, '14': 19, '2': 5, '8': 17, '12': 9}",True,False,38
